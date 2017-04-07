@@ -1,0 +1,11 @@
+Contexto 
+Este caso simula un host que realiza un escaneo de los host de la red.
+Lo he simulado pingeando a varios server, en ves de pingear localmente
+EL resultado se muestra en un grafico en donde se observa la cantidad de escaneos realizados para cada host de la red.
+
+
+
+Instrucciones
+Primeramente se debe ejecutar el archivo generartrafico.py en un host  (darle privilegios para ejecucion )
+Una vez generando el trafico, se debe correr el escaneador tcpdump.sh en el mismo host que el anterior  (darle privilegios para ejecucion )
+Luego de 10s se podrá acceder a la web index.html para observar los resultados

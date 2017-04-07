@@ -1,0 +1,5 @@
+Dentro de cada carpeta se encuentran cada uno de los ejercicios con sus explicaciones.
+
+Se debe ejecutar cada uno en entorno kali(en mi caso) o un Ubuntu, con pyton instalado, tcpdump instalado y sus dependencias correspondientes.
+
+Saludos.
