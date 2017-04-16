@@ -1,0 +1,10 @@
+Dentro de cada carpeta se encuentran cada uno de los ejercicios con sus explicaciones.
+
+SE DEBE INSTALAR EL COMANDO "fping", "nmap", "tcpdump", para que pueda ejecutarse
+SE DEBE EJECUTAR CON PERMISOS ROOT
+
+Se debe ejecutar cada uno en entorno kali(en mi caso) o un Ubuntu, con pyton instalado y sus dependencias correspondientes.
+
+
+
+Saludos.

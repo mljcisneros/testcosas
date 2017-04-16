@@ -1,0 +1,10 @@
+Contexto 
+Este caso simula un host que esta recibiendo demaciadas peticiones DNS
+Lo he simulado realizando consultas DNS al servidor de google como si fuera propio y tomando los datos de ese trafico.
+EL resultado se muestra en un grafico en donde se observa la cantidad de peticiones DNS por minutos por tema de no sobrecargar la grafica
+
+
+
+Instrucciones
+Primeramente se debe ejecutar el archivo ejecutable.sh, (debe darse permisos de ejecucion)
+Luego de 60s se podrá acceder a la web index.html para observar los resultados

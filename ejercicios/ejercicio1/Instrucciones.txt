@@ -1,0 +1,10 @@
+Contexto 
+Este caso simula un host que realiza un escaneo de los host de la red.
+Lo he simulado pingeando a varios server, en ves de pingear localmente
+EL resultado se muestra en un grafico en donde se observa la cantidad de escaneos realizados para cada host de la red.
+
+
+
+Instrucciones
+Primeramente se acceder a permisos root, luego ejecutar el ejecutable "ejecutable.sh".
+Una vez esperados 10s se podra observar los datos en la web , accecando a index.html
